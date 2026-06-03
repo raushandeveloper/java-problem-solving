@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/C-1_variable_and_dataType/C-1_variable_and_dataType.iml" filepath="$PROJECT_DIR$/C-1_variable_and_dataType/C-1_variable_and_dataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C-2_operator_and_expressions/C-2_operator_and_expressions.iml" filepath="$PROJECT_DIR$/C-2_operator_and_expressions/C-2_operator_and_expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C-3_String/C-3_String.iml" filepath="$PROJECT_DIR$/C-3_String/C-3_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C-3_Strings/C-3_Strings.iml" filepath="$PROJECT_DIR$/C-3_Strings/C-3_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C-4_Conditionals/C-4_Conditionals.iml" filepath="$PROJECT_DIR$/C-4_Conditionals/C-4_Conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C-5_Loop/C-5_Loop.iml" filepath="$PROJECT_DIR$/C-5_Loop/C-5_Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C-6_Arrays/C-6_Arrays.iml" filepath="$PROJECT_DIR$/C-6_Arrays/C-6_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C-7_Methods/C-7_Methods.iml" filepath="$PROJECT_DIR$/C-7_Methods/C-7_Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C-8_OOPs_Introduction/C-8_OOPs_Introduction.iml" filepath="$PROJECT_DIR$/C-8_OOPs_Introduction/C-8_OOPs_Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class_Object/Class_Object.iml" filepath="$PROJECT_DIR$/Class_Object/Class_Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L-7/L-7.iml" filepath="$PROJECT_DIR$/L-7/L-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maths_class/maths_class.iml" filepath="$PROJECT_DIR$/maths_class/maths_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops_Practise/oops_Practise.iml" filepath="$PROJECT_DIR$/oops_Practise/oops_Practise.iml" />
+    </modules>
+  </component>
+</project>
