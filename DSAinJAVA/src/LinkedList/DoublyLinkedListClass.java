@@ -1,5 +1,7 @@
 package LinkedList;
 
+import java.util.List;
+
 class ListNode{
     int val;
     ListNode next;
@@ -72,6 +74,55 @@ class DLL{
         }
         System.out.println();
     }
+    void insert(int idx, int val) {
+        if (idx < 0 || idx > size) {
+            System.out.println("Invalid Index");
+            return;
+        }
+        if (idx == 0) {
+            insertAtHead(val);
+            return;
+        }
+        if(idx == size){
+            insertAttail(val);
+            return;
+        }
+        ListNode a = new ListNode(val);
+        ListNode temp = head;
+        for (int i = 1; i <= idx - 1; i++) {
+            temp = temp.next;
+        }
+        ListNode b = temp.next;
+        temp.next = a;
+        a.prev = temp;
+        a.next = b;
+        b.prev = a;
+        size++;
+    }
+    void delete(int idx) {
+        if (idx < 0 || idx >= size) {
+            System.out.println("Invalid Index");
+            return;
+        }
+        if (idx == 0) {
+            deleteAtHead();
+            return;
+        }
+        if(idx == size-1){
+            deleteAtTail();
+            return;
+        }
+        ListNode temp = head;
+        for (int i = 1; i <= idx - 1; i++) {
+            temp = temp.next;
+        }
+        ListNode b = temp.next;
+        temp.next = b.next;
+        if (b.next != null) {
+            b.next.prev = temp;
+        }
+        size--;
+    }
 }
 public class DoublyLinkedListClass {
     static void main(String[] args){
@@ -84,5 +135,7 @@ public class DoublyLinkedListClass {
         list.insertAttail(50);
         list.display();
         list.displayReverse();
+        list.delete(2);
+        list.display();
     }
 }
