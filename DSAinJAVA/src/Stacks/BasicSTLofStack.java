@@ -9,5 +9,11 @@ public class BasicSTLofStack {
         st.push("Rishika");
         st.push("Prayas");
         System.out.println(st.size());
+        System.out.println(st); // A.S. = O
+        st.pop();
+        System.out.println(st+" "+st.size());
+        System.out.println(st.peek());
+        System.out.println(st.pop()); // it returns the topmost element then removes it
+        
     }
 }
