@@ -14,6 +14,6 @@ public class BasicSTLofStack {
         System.out.println(st+" "+st.size());
         System.out.println(st.peek());
         System.out.println(st.pop()); // it returns the topmost element then removes it
-        
+
     }
 }
