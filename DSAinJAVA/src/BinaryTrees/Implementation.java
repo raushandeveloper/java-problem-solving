@@ -1,5 +1,6 @@
 package BinaryTrees;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -42,11 +43,12 @@ public class Implementation {
         a.left = b;a.right = c;
         b.left = d;b.right = e;
         c.left = f;c.right = g;
-
+        for(int i=0; i<levels(a); i++) {
+            KThLevel(a,0,i);
+            System.out.println();
+        }
 //        levelOrder(a);
-        levelOrderLineWise(a);
-
-        // Sirf root print hoga
+//        levelOrderLineWise(a);
 //        preorder(a);
 //        System.out.println();
 //        inorder(a);
@@ -59,6 +61,13 @@ public class Implementation {
 //        System.out.println(max(a));
 //        System.out.println(min(a));
 //        System.out.println(levels(a));
+    }
+
+    private static void KThLevel(Node root, int level, int k) {
+        if(root == null) return;
+        if(level==k) System.out.print(root.val+" ");
+        KThLevel(root.left,level+1,k);
+        KThLevel(root.right,level+1,k);
     }
 
     private static void levelOrderLineWise(Node root){
@@ -141,6 +150,19 @@ public class Implementation {
         postorder(root.left);
         postorder(root.right);
         System.out.print(root.val + " ");
+    }
+
+    ArrayList<Integer> rightView(Node root){
+        ArrayList<Integer> ans = new ArrayList<>();
+        view(root,0,ans);
+        return ans;
+    }
+    private void view(Node root, int level,ArrayList<Integer> ans){
+        if(root==null) return;
+        if(level>=ans.size()) ans.add(root.val);
+        else ans.set(level,root.val);
+        view(root.left,level+1,ans);
+        view(root.right,level+1,ans);
     }
 }
 
