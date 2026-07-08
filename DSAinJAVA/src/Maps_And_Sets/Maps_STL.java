@@ -1,0 +1,18 @@
+package Maps_And_Sets;
+
+import java.util.HashMap;
+import java.util.HashSet;
+
+public class Maps_STL {
+    static void main(String[] args) {
+        HashMap<String,Integer> map = new HashMap<>();
+        map.put("Raghav",25); map.put("Aditya",19);
+        map.put("Vivek",17); map.put("Aman",25);
+        for(String key : map.keySet()){
+            System.out.println(key+" "+map.get(key));
+        }
+//        System.out.println(map+" "+map.size());
+//        System.out.println(map.remove("Vivek"));
+//        System.out.println(map+" "+map.size());
+    }
+}
