@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raushandeveloper/java-problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0486-predict-the-winner](https://github.com/raushandeveloper/java-problem-solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/raushandeveloper/java-problem-solving/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/raushandeveloper/java-problem-solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/raushandeveloper/java-problem-solving/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/raushandeveloper/java-problem-solving/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -18,6 +19,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/raushandeveloper/java-problem-solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/raushandeveloper/java-problem-solving/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/raushandeveloper/java-problem-solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/raushandeveloper/java-problem-solving/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/raushandeveloper/java-problem-solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raushandeveloper/java-problem-solving/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -26,6 +28,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/raushandeveloper/java-problem-solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/raushandeveloper/java-problem-solving/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/raushandeveloper/java-problem-solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/raushandeveloper/java-problem-solving/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
@@ -36,6 +39,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/raushandeveloper/java-problem-solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/raushandeveloper/java-problem-solving/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/raushandeveloper/java-problem-solving/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/raushandeveloper/java-problem-solving/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
@@ -77,4 +81,16 @@
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raushandeveloper/java-problem-solving/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/raushandeveloper/java-problem-solving/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/raushandeveloper/java-problem-solving/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/raushandeveloper/java-problem-solving/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
