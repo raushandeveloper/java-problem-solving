@@ -26,6 +26,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/raushandeveloper/java-problem-solving/tree/master/0007-reverse-integer) |
 | [0486-predict-the-winner](https://github.com/raushandeveloper/java-problem-solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/raushandeveloper/java-problem-solving/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/raushandeveloper/java-problem-solving/tree/master/1140-stone-game-ii) |
