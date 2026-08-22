@@ -79,14 +79,17 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/raushandeveloper/java-problem-solving/tree/master/0841-keys-and-rooms) |
 | [3310-remove-methods-from-project](https://github.com/raushandeveloper/java-problem-solving/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/raushandeveloper/java-problem-solving/tree/master/0841-keys-and-rooms) |
 | [3310-remove-methods-from-project](https://github.com/raushandeveloper/java-problem-solving/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/raushandeveloper/java-problem-solving/tree/master/0841-keys-and-rooms) |
 | [3310-remove-methods-from-project](https://github.com/raushandeveloper/java-problem-solving/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
