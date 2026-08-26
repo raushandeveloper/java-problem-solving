@@ -108,6 +108,7 @@
 | ------- |
 | [1927-sum-game](https://github.com/raushandeveloper/java-problem-solving/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/raushandeveloper/java-problem-solving/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/raushandeveloper/java-problem-solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/raushandeveloper/java-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raushandeveloper/java-problem-solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -157,6 +158,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/raushandeveloper/java-problem-solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raushandeveloper/java-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/raushandeveloper/java-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
