@@ -104,6 +104,7 @@
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/raushandeveloper/java-problem-solving/tree/master/0841-keys-and-rooms) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/raushandeveloper/java-problem-solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/raushandeveloper/java-problem-solving/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -231,4 +232,12 @@
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raushandeveloper/java-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/raushandeveloper/java-problem-solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/raushandeveloper/java-problem-solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
