@@ -47,6 +47,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/raushandeveloper/java-problem-solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/raushandeveloper/java-problem-solving/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/raushandeveloper/java-problem-solving/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/raushandeveloper/java-problem-solving/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/raushandeveloper/java-problem-solving/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/raushandeveloper/java-problem-solving/tree/master/1140-stone-game-ii) |
@@ -91,6 +92,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/raushandeveloper/java-problem-solving/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/raushandeveloper/java-problem-solving/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raushandeveloper/java-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
@@ -253,6 +255,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/raushandeveloper/java-problem-solving/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/raushandeveloper/java-problem-solving/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/raushandeveloper/java-problem-solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raushandeveloper/java-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
