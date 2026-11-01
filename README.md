@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raushandeveloper/java-problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/raushandeveloper/java-problem-solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/raushandeveloper/java-problem-solving/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/raushandeveloper/java-problem-solving/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/raushandeveloper/java-problem-solving/tree/master/0877-stone-game) |
@@ -62,6 +63,7 @@
 | [0007-reverse-integer](https://github.com/raushandeveloper/java-problem-solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/raushandeveloper/java-problem-solving/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/raushandeveloper/java-problem-solving/tree/master/0231-power-of-two) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/raushandeveloper/java-problem-solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/raushandeveloper/java-problem-solving/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/raushandeveloper/java-problem-solving/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/raushandeveloper/java-problem-solving/tree/master/0877-stone-game) |
