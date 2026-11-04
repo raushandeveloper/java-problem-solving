@@ -36,6 +36,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/raushandeveloper/java-problem-solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/raushandeveloper/java-problem-solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raushandeveloper/java-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raushandeveloper/java-problem-solving/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/raushandeveloper/java-problem-solving/tree/master/3524-find-x-value-of-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/raushandeveloper/java-problem-solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raushandeveloper/java-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -81,6 +82,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/raushandeveloper/java-problem-solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/raushandeveloper/java-problem-solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raushandeveloper/java-problem-solving/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raushandeveloper/java-problem-solving/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/raushandeveloper/java-problem-solving/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raushandeveloper/java-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/raushandeveloper/java-problem-solving/tree/master/3870-count-commas-in-range) |
@@ -110,6 +112,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/raushandeveloper/java-problem-solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/raushandeveloper/java-problem-solving/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/raushandeveloper/java-problem-solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raushandeveloper/java-problem-solving/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/raushandeveloper/java-problem-solving/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/raushandeveloper/java-problem-solving/tree/master/3665-twisted-mirror-path-count) |
 ## Recursion
@@ -148,6 +151,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/raushandeveloper/java-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/raushandeveloper/java-problem-solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raushandeveloper/java-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raushandeveloper/java-problem-solving/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/raushandeveloper/java-problem-solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raushandeveloper/java-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/raushandeveloper/java-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -297,6 +301,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/raushandeveloper/java-problem-solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raushandeveloper/java-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/raushandeveloper/java-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raushandeveloper/java-problem-solving/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Segment Tree
 |  |
 | ------- |
@@ -413,6 +418,7 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raushandeveloper/java-problem-solving/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raushandeveloper/java-problem-solving/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/raushandeveloper/java-problem-solving/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Indexed Tree
 |  |
