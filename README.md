@@ -89,6 +89,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raushandeveloper/java-problem-solving/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/raushandeveloper/java-problem-solving/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raushandeveloper/java-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/raushandeveloper/java-problem-solving/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/raushandeveloper/java-problem-solving/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/raushandeveloper/java-problem-solving/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raushandeveloper/java-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
@@ -263,6 +264,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raushandeveloper/java-problem-solving/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/raushandeveloper/java-problem-solving/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/raushandeveloper/java-problem-solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/raushandeveloper/java-problem-solving/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Number Theory
 |  |
 | ------- |
